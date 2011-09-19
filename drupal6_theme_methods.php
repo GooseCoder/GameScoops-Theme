@@ -130,7 +130,7 @@ function GameScoopsNew_button($element) {
 
 /**
  * Image assist module support.
- * Added Artisteer styles in IE
+ * Added GameScoops styles in IE
 */
 function GameScoopsNew_img_assist_page($content, $attributes = NULL) {
   $title = drupal_get_title();

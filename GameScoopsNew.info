@@ -1,6 +1,6 @@
 ; $Id: GameScoopsNew.info $
 name = GameScoopsNew
-description = Artisteer-generated theme
+description = GameScoops-generated theme
 screenshot = screenshot.png
 version = 1.0
 core = 7.x

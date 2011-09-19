@@ -1,5 +1,5 @@
 /* begin Page */
-/* Created by Artisteer v3.0.0.41778 */
+/* Created by GameScoops v3.0.0.41778 */
 // css hacks
 (function($) {
     // fix ie blinking

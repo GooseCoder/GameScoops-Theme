@@ -269,7 +269,7 @@ echo art_get_sidebar($art_sidebar_right, $vnavigation_right, 'art-sidebar2'); ?>
                         ob_start(); ?>
 <p><a href="#">Link1</a> | <a href="#">Link2</a> | <a href="#">Link3</a></p><p>Copyright © 2011. All Rights Reserved.</p>
 <div class="cleared"></div>
-<p class="art-page-footer"><?php echo t('Powered by').' <a href="http://drupal.org/">'.t('Drupal').'</a> '.t('and').' <a href="http://www.artisteer.com/?p=drupal_themes">Drupal Theme</a> '.t('created with').' Artisteer'; ?>.</p>
+<p class="art-page-footer"><?php echo t('Powered by').' <a href="http://drupal.org/">'.t('Drupal').'</a> '.t('and').' <a href="http://www.GameScoops.com/?p=drupal_themes">Drupal Theme</a> '.t('created with').' GameScoops'; ?>.</p>
 
                         <?php echo str_replace('%YEAR%', date('Y'), ob_get_clean());
                     }

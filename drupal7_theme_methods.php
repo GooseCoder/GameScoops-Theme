@@ -205,7 +205,7 @@ EOT;
 }
 
 /**
- * Return a Artisteer themed set of links.
+ * Return a GameScoops themed set of links.
  *
  * @param $content
  *   An object with node content.

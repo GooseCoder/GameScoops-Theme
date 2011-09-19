@@ -1,9 +1,9 @@
 <?php
 
-/* Common Drupal methods definitons using in Artisteer theme export */
+/* Common Drupal methods definitons using in GameScoops theme export */
 
 /**
- * Generate the HTML representing a given menu with Artisteer style.
+ * Generate the HTML representing a given menu with GameScoops style.
  *
 */
 function art_menu_worker($content = NULL, $show_sub_menus, $menu_class) {
